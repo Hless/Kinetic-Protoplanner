@@ -38,7 +38,7 @@
 
         
         $http
-        .get("data/db.json")
+        .get("http://hless.github.io/Kinetic-Protoplanner/data/db.json")
         .then(function(data){
             $scope.dataRows = data.data; 
         }, function(){

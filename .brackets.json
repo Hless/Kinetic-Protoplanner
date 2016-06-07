@@ -2,5 +2,8 @@
     "sass.enabled": true,
     "sass.options": {
         "outputDir": "../css/"
-    }
+    },
+    "jscodehints.detectedExclusions": [
+        "C:/Users/boytj/apps/Kinetic-Protoplanner/lib/angular/index.js"
+    ]
 }
