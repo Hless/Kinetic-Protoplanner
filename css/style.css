@@ -1,5 +1,38 @@
 /* line 2, C:/Users/boytj/apps/Kinetic-Protoplanner/scss/style.scss */
-.test-2 {
-  background: orange; }
+.navbar-brand {
+  padding: 15px;
+  height: auto; }
+
+/* line 8, C:/Users/boytj/apps/Kinetic-Protoplanner/scss/style.scss */
+.nav.navbar-nav a {
+  padding: 30px 20px; }
+
+/* line 13, C:/Users/boytj/apps/Kinetic-Protoplanner/scss/style.scss */
+.tag {
+  margin: 0 10px 10px 0;
+  color: #fff; }
+  /* line 16, C:/Users/boytj/apps/Kinetic-Protoplanner/scss/style.scss */
+  .tag .glyphicon {
+    padding: 10px 0px 10px 10px; }
+
+/* line 21, C:/Users/boytj/apps/Kinetic-Protoplanner/scss/style.scss */
+.table-striped tr.data-row {
+  cursor: pointer; }
+  /* line 25, C:/Users/boytj/apps/Kinetic-Protoplanner/scss/style.scss */
+  .table-striped tr.data-row:hover {
+    background: #81b5ef;
+    color: #fff; }
+  /* line 30, C:/Users/boytj/apps/Kinetic-Protoplanner/scss/style.scss */
+  .table-striped tr.data-row.selected {
+    background: #2780e3;
+    color: #fff; }
+
+/* line 36, C:/Users/boytj/apps/Kinetic-Protoplanner/scss/style.scss */
+.strong {
+  font-weight: normal !important; }
+
+/* line 40, C:/Users/boytj/apps/Kinetic-Protoplanner/scss/style.scss */
+.chart {
+  margin-top: 30px; }
 
 /*# sourceMappingURL=style.css.map */

@@ -1,4 +1,42 @@
  
-.test-2 {
-    background: orange;
+.navbar-brand{
+    padding: 15px;
+    height: auto;
+}
+
+.nav.navbar-nav {
+    a {
+        padding: 30px 20px;
+    }
+}
+
+.tag {
+    margin: 0 10px 10px 0;
+    color: #fff;
+    .glyphicon {
+        padding: 10px 0px 10px 10px;
+    }
+}
+
+.table-striped tr.data-row {
+ 
+  cursor: pointer;
+  
+  &:hover {
+    background: lighten(#2780e3, 20%);
+    color: #fff;
+  }
+  
+  &.selected {
+     background: #2780e3;
+    color: #fff;
+  }
+}
+
+.strong {
+  font-weight: normal !important;
+}
+
+.chart {
+  margin-top: 30px;
 }
